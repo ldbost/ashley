@@ -1,0 +1,62 @@
+@import "bootstrap";
+.about-container {
+  background: url('IMG_1850.jpg') no-repeat center fixed;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+  
+  height: 500px;
+  padding-top: 70px;
+  
+  
+}
+body {
+  background: image_url('footer_lodyas.png');
+  padding-top: 70px;
+}
+
+.about {
+  margin-right: auto;
+	margin-left:  auto;
+	text-align: center;
+	width: 600px;
+	
+}
+.bio {
+  color: white;
+  font-size: 18px;
+  max-width: 800px;
+  margin: 40px auto;
+}
+
+p {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 50px; 
+  font-weight: normal;
+  margin-bottom: 0;
+}
+h2 {
+  color: white;
+  font-size: 18px;
+  margin-top: 0;
+}
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 28px;
+  font-weight: normal;
+  margin-top: 100px;
+}
+.yellow {
+  border-top: 5px double #F5A623;
+  width: 250px;
+  border-bottom: none;
+  border-right: none;
+}
+
+
